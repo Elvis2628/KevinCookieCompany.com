@@ -1,4 +1,5 @@
 # ignore all .txt files
 *.txt
 
-# ignore git-cheat-sheet-education.pdf
+# ignore a specific PDF file
+git-cheat-sheet-education.pdf
